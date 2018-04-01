@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec ./snb-core -ll fatal --test -a -r dot
